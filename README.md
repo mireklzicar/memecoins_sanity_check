@@ -1,5 +1,7 @@
 # memecoins_sanity_check
 
+[![DOI](https://zenodo.org/badge/986760504.svg)](https://doi.org/10.5281/zenodo.15469077)
+
 - In `tokens_socials_rugcheck.json` are all tokens with ≥1 social link and results of rugcheck alerts.
 - In the .csv tables you will find compiled statistics from this .json.
 - The file with all the 756648 tokens is too large, please contact me if you want to share it.
