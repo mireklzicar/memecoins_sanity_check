@@ -1,0 +1,1 @@
+# memecoins_sanity_check
